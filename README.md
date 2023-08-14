@@ -1,2 +1,2 @@
 # bisness-card
-train html + css
+practices in html + css
